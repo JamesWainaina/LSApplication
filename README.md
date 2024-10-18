@@ -38,12 +38,3 @@ You need the following installed on your machine:
 - **TypeScript** - Typed JavaScript for both backend and frontend
 - **Composition API** - Modern Vue 3 setup
 
-## Backend Setup (API & DB)
-
-1. **Install Dependencies**:
-
-   First, install the required dependencies for the Node.js backend:
-
-   ```bash
-   cd backend
-   npm install express sequelize mysql2 body-parser cors
